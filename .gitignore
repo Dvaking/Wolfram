@@ -1,0 +1,4 @@
+# File ignore
+.stack-work/
+*~
+wolfram
